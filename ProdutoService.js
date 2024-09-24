@@ -1,5 +1,6 @@
 // src/services/produtoService.js
 import axiosInstance from './axiosInstance';
+import axios from 'axios';
 
 // Serviço para obter todos os produtos
 const getProdutos = () => {
